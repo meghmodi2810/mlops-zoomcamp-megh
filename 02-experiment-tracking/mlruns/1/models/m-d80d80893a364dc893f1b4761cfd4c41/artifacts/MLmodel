@@ -1,0 +1,28 @@
+artifact_path: /workspaces/mlops-zoomcamp-megh/02-experiment-tracking/mlruns/1/models/m-d80d80893a364dc893f1b4761cfd4c41/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.9.12
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.core.Booster
+    model_format: xgb
+    xgb_version: 2.1.4
+is_signature_from_type_hint: false
+mlflow_version: 3.1.4
+model_id: m-d80d80893a364dc893f1b4761cfd4c41
+model_size_bytes: 22479887
+model_uuid: m-d80d80893a364dc893f1b4761cfd4c41
+prompts: null
+run_id: e182f02892ed4fd792e92e16cf5f13e0
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 5167]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-06-06 17:30:34.587265'

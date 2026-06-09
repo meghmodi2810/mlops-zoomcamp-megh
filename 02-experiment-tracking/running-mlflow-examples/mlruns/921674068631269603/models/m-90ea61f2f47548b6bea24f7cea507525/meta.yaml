@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/mlops-zoomcamp-megh/02-experiment-tracking/running-mlflow-examples/mlruns/921674068631269603/models/m-90ea61f2f47548b6bea24f7cea507525/artifacts
+creation_timestamp: 1780993855700
+experiment_id: '921674068631269603'
+last_updated_timestamp: 1780993861502
+model_id: m-90ea61f2f47548b6bea24f7cea507525
+model_type: null
+name: model
+source_run_id: 0c96832581fa421a8d52deeb61efbfa7
+status: 2
+status_message: null

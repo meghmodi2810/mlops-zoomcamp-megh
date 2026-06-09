@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp-megh/02-experiment-tracking/running-mlflow-examples/mlruns/921674068631269603/0c96832581fa421a8d52deeb61efbfa7/artifacts
+end_time: 1780993861522
+entry_point_name: ''
+experiment_id: '921674068631269603'
+lifecycle_stage: active
+run_id: 0c96832581fa421a8d52deeb61efbfa7
+run_name: bittersweet-bear-317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780993855096
+status: 3
+tags: []
+user_id: codespace

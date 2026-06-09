@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp-megh/02-experiment-tracking/running-mlflow-examples/mlruns/921674068631269603/5c197aeac4f5485592aa4fdb95e4b627/artifacts
+end_time: 1780987117538
+entry_point_name: ''
+experiment_id: '921674068631269603'
+lifecycle_stage: active
+run_id: 5c197aeac4f5485592aa4fdb95e4b627
+run_name: melodic-swan-566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780987114329
+status: 3
+tags: []
+user_id: codespace

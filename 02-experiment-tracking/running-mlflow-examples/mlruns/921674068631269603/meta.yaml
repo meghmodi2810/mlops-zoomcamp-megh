@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/mlops-zoomcamp-megh/02-experiment-tracking/running-mlflow-examples/mlruns/921674068631269603
+creation_time: 1780986267130
+experiment_id: '921674068631269603'
+last_update_time: 1780986267130
+lifecycle_stage: active
+name: iris-classification

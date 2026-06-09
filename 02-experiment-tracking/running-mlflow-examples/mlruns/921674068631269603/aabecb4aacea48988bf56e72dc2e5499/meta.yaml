@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp-megh/02-experiment-tracking/running-mlflow-examples/mlruns/921674068631269603/aabecb4aacea48988bf56e72dc2e5499/artifacts
+end_time: 1780986794417
+entry_point_name: ''
+experiment_id: '921674068631269603'
+lifecycle_stage: active
+run_id: aabecb4aacea48988bf56e72dc2e5499
+run_name: adaptable-koi-731
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780986791255
+status: 3
+tags: []
+user_id: codespace

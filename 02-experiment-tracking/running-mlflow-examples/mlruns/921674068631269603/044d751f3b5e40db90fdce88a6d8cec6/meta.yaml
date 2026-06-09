@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp-megh/02-experiment-tracking/running-mlflow-examples/mlruns/921674068631269603/044d751f3b5e40db90fdce88a6d8cec6/artifacts
+deleted_time: 1780986720021
+end_time: 1780986537866
+entry_point_name: ''
+experiment_id: '921674068631269603'
+lifecycle_stage: deleted
+run_id: 044d751f3b5e40db90fdce88a6d8cec6
+run_name: resilient-snipe-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780986528812
+status: 3
+tags: []
+user_id: codespace
